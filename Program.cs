@@ -10,8 +10,8 @@ namespace contagemRegressiva
             Console.ReadLine();
             Console.WriteLine("apontar...!");
             Console.ReadLine();
-            Console.WriteLine("fogo...!");
-            Console.ReadLine();
+            Console.WriteLine("fogo!");
+            
         }
     }
 }
